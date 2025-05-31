@@ -15,7 +15,7 @@ A modern and responsive web application for managing personal tasks, written in 
 
 ## 🌐 Live demo
 
-🔗 [Open the site here](https://blllinded.github.io/task-manager/)
+🔗 [Open the site here]([https://blllinded.github.io/task-manager/](https://blllinded.github.io/task-manager/))
 
 ## 🗂️ Project structure
 
